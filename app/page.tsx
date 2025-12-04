@@ -248,7 +248,7 @@ export default function Home() {
         <div className="mx-auto flex max-w-5xl flex-col items-center gap-10 px-4 md:flex-row">
           <div className="relative h-72 w-full overflow-hidden rounded-2xl bg-muted md:h-80 md:w-1/2">
             <Image
-              src="/pexels-startup-stock-photos-7097.jpg"
+              src="/pexels-startup-stock-photos-7376.jpg"
               alt="Founders collaborating in a modern workspace"
               fill
               priority
